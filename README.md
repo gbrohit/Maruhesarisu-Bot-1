@@ -20,13 +20,13 @@
 
 ## Botfather Commands
 ```
-start - Bot Alive Or Not
-view_thumb - View Thumbnail
-del_thumb - Delete Thumbnail
-set_caption - Set A Custom Caption
-see_caption - See Your Custom Caption
-del_caption - Delete Custom Caption
-status - Check Bot Status (Admin Only)
-broadcast - Send Message To All Users (Admin Only)
+start - ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ
+view_thumb - ᴛᴏ ᴠɪᴇᴡ ᴛʜᴜᴍʙɴᴀɪʟ
+del_thumb - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ
+set_caption - ᴛᴏ sᴇᴛ ᴀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
+see_caption - ᴛᴏ sᴇᴇ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
+del_caption - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
+status - ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ sᴛᴀᴛᴜs (ᴀᴅᴍɪɴ ᴏɴʟʏ)
+broadcast - ᴛᴏ sᴇɴᴅ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
