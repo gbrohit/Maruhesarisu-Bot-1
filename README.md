@@ -7,8 +7,7 @@
 </p>
 </details>
 
-## Configs 
-
+## Variables
 * `BOT_TOKEN`  - Get Bot Token From @BotFather
 * `API_ID` - From my.telegram.org 
 * `API_HASH` - From my.telegram.org
@@ -20,7 +19,7 @@
 * `LOG_CHANNEL` - Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server
 * `START_PIC` - Start Message Photo. You Don't Need This! Just Skip
 
-## Botfather Commands
+## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
 start - ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ
 view_thumb - ᴛᴏ ᴠɪᴇᴡ ᴛʜᴜᴍʙɴᴀɪʟ
