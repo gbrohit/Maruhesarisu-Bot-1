@@ -1,9 +1,11 @@
-
-## Deploy To Heroku
-
-<a href="https://heroku.com/deploy?template=https://github.com/gbrohit/TIC-Rename-Bot-1"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
-
-
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/gbrohit/Maruhesarisu-Bot-1">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
+</a>
+</p>
+</details>
 
 ## Configs 
 
